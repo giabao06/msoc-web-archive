@@ -8,7 +8,9 @@
 
 Welcome to *MSOC* - *maimai Student Open Cup*.
 
-This is `msoc-web` repository, containing **both** the user-facing and the back side of the MSOC website.
+This is an archive of the `msoc-web` repository, containing **both** the user-facing and the back side of the MSOC website.
+
+I'm archiving this to show people that yes, this was a thing. Enjoy what had become an unused pile of code due to *issues™*.
 
 **If you intend to register for MSOC, ~~don't hestitate to smash the button below:~~ registration ended, thank you!**
   
